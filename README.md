@@ -289,7 +289,8 @@ Voilà comment nous avons configuré les différentes machines de ce projet, ce 
 - https://www.supinfo.com/articles/single/1709-mise-place-serveur-dns-avec-bind9
 - https://openclassrooms.com/fr/courses/2752866-mise-en-place-dun-serveur-dhcp-sous-linux
 
-Réalisé par Florian, Julien, Baptiste et Antoine
+Réalisé par Julien, Baptiste, Florian et Antoine
+
 Chef de projet :  Florian
 
 
